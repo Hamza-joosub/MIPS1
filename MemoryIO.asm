@@ -13,7 +13,7 @@ li $v0, 10
 syscall
 
 .data
-num1: .word 2
-num2: .word 2
+num1: .word 3
+num2: .word 3
 num3: .word 0
 
